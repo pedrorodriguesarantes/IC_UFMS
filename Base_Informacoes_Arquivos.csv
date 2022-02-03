@@ -1,0 +1,109 @@
+Tipo,Formato
+Application,bat
+Application,cmd
+Application,exe
+Application,ser
+Application,swf
+Archive,a
+Archive,gz
+Archive,jar
+Archive,pack
+Archive,zip
+Audio,kt
+Audio,mp3
+Audio,ogg
+Audio,wav
+Disk Image,scl
+Font,eot
+Font,otf
+Font,ttf
+Font,woff
+Image,blp
+Image,bmp
+Image,dds
+Image,gif
+Image,ico
+Image,jpeg
+Image,jpg
+Image,png
+Image,psd
+Image,rs
+Image,svg
+Image,tga
+Image,tif
+Image,xpm
+Project,csproj
+Project,pbxproj
+Project,vcproj
+Project,vcxproj
+Source Code,as
+Source Code,asm
+Source Code,c
+Source Code,cc
+Source Code,class
+Source Code,coffee
+Source Code,cpp
+Source Code,cs
+Source Code,cshtml
+Source Code,css
+Source Code,ctp
+Source Code,cxx
+Source Code,d
+Source Code,dll
+Source Code,ebuild
+Source Code,ejs
+Source Code,el
+Source Code,erb
+Source Code,erl
+Source Code,f
+Source Code,f90
+Source Code,go
+Source Code,gradle
+Source Code,groovy
+Source Code,h
+Source Code,haml
+Source Code,hpp
+Source Code,hs
+Source Code,i
+Source Code,java
+Source Code,js
+Source Code,jsp
+Source Code,less
+Source Code,lua
+Source Code,m
+Source Code,mo
+Source Code,o
+Source Code,php
+Source Code,phpt
+Source Code,phtml
+Source Code,pl
+Source Code,pm
+Source Code,pp
+Source Code,py
+Source Code,pyc
+Source Code,r
+Source Code,rb
+Source Code,s
+Source Code,scala
+Source Code,scss
+Source Code,scssc
+Source Code,sh
+Source Code,smali
+Source Code,so
+Source Code,sql
+Source Code,swift
+Source Code,t
+Source Code,tcl
+Source Code,ts
+Source Code,vb
+Source Code,vim
+Source Code,rkt
+Source Code,html
+Source Code,json
+Source Code,yaml
+Source Code,launch
+Text,template
+Text,ngdoc
+Text,gdoc
+Text,xml
+Text,md
